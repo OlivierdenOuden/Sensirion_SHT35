@@ -1,16 +1,16 @@
-#*******************************************************#
-#														#
-#		SHT3x - Sensirion Temperature Humidity sensor	#
-#														#
-#		Main script with defenitions, can be called		#
-#		by a read-out script.							#
-#														#
-#		Olivier den Ouden								#
-#		Royal Netherlands Meterological Institute		#
-#		RD Seismology and Acoustics						#
-#		https://www.seabirdsound.org 					#
-#														#
-#*******************************************************#
+#******************************************************************************#
+#														
+#		SHT3x - Sensirion Temperature Humidity sensor	
+#														
+#		Main script with defenitions, can be called		
+#		by a read-out script.							
+#														
+#		Olivier den Ouden								
+#		Royal Netherlands Meterological Institute		
+#		RD Seismology and Acoustics						
+#		https://www.seabirdsound.org 					
+#														
+#******************************************************************************#
 
 # Modules
 import smbus
