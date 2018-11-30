@@ -1,14 +1,14 @@
 #*******************************************************#
-#														#
-#		SHT3x - Sensirion Temperature Humidity sensor	#
-#														#
-#		Simple script.									#
-#														#
-#		Olivier den Ouden								#
-#		Royal Netherlands Meterological Institute		#
-#		RD Seismology and Acoustics						#
-#		https://www.seabirdsound.org 					#
-#														#
+#													                            	#
+#		SHT3x - Sensirion Temperature Humidity sensor	      #
+#														                            #
+#		Simple script.									                    #
+#														                            #
+#		Olivier den Ouden								                    #
+#		Royal Netherlands Meterological Institute		        #
+#		RD Seismology and Acoustics						              #
+#		https://www.seabirdsound.org 					              #
+#														                            #
 #*******************************************************#
 
 # Modules
